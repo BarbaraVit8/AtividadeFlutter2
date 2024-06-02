@@ -1,3 +1,6 @@
+
+Atividade realizada como parte da Unidade Curricular de Usabilidade, Web, Mobile e Games.
+
 # namer_app
 
 A new Flutter project.
